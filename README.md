@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Node.Js-333?style=for-the-badge&labelColor=339933&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Python-333?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Java-333?style=for-the-badge&labelColor=007396&logo=java&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-C++-333?style=for-the-badge&labelColor=00599C&logo=C%2B%2B&logoColor=white)
 
 ### Web Development
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
