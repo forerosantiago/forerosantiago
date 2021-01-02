@@ -2,21 +2,6 @@
 
 I'm a Colombian high school student learning computer skills during my free time.
 
-<!--
-**forerosantiago/forerosantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Stuff I like
 - :tongue: Languages
 - :computer: Computers
@@ -28,6 +13,13 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=forerosantiago)
 
 ## Skills
+
+### System Management
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&labelColor=FCC624&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333?style=for-the-badge&labelColor=1793D1&logo=arch%20linux&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-333?style=for-the-badge&labelColor=A81D33&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333?style=for-the-badge&labelColor=E95420&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333?style=for-the-badge&labelColor=87CF3E&logo=linux%20mint&logoColor=white)
 
 
 
