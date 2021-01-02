@@ -2,15 +2,16 @@
 
 I'm a Colombian high school student learning computer skills during my free time.
 
-## Stuff I like
-- :tongue: Languages
-- :computer: Computers
-- :sleeping: Dreams
-
 ## Stats
+
+### Github
+
 ![](https://github-readme-stats.vercel.app/api?username=forerosantiago&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=forerosantiago)
+
+### Miscellaneous
+![](https://data.typeracer.com/misc/badge?user=forero)
 
 ## Skills
 
@@ -43,5 +44,5 @@ I'm a Colombian high school student learning computer skills during my free time
 ### Discord Server
 [![](https://img.shields.io/discord/782081352396832778?color=%20%237289da%20&label=DISCORD&logo=DISCORD&style=for-the-badge)](https://discord.gg/J9stY4Ks2T)
 
-### Email
+### Email 
 [:email: thesantiagoforero@gmail.com](mailto:thesantiagoforero@gmail.com)
