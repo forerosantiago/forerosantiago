@@ -2,6 +2,13 @@
 
 I'm a Colombian high school student learning computer skills during my free time.
 
+## About me
+- :penguin: Operating system: Arch Linux
+- :computer: I practice high speed typing
+- :earth_americas: I enjoy learning new languages
+- :point_left: I was left handed but learned to be ambidextrous
+- :ru: I am learning Russian!
+
 ## Stats
 
 ### Github
