@@ -17,9 +17,6 @@ I'm a Colombian high school student learning computer skills during my free time
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=forerosantiago)
 
-### Miscellaneous
-![](https://data.typeracer.com/misc/badge?user=forero)
-
 ## Skills
 
 ### System Management
@@ -52,4 +49,4 @@ I'm a Colombian high school student learning computer skills during my free time
 [![](https://img.shields.io/discord/782081352396832778?color=%20%237289da%20&label=DISCORD&logo=DISCORD&style=for-the-badge)](https://discord.gg/J9stY4Ks2T)
 
 ### Email 
-[:email: thesantiagoforero@gmail.com](mailto:thesantiagoforero@gmail.com)
+[:email: santiago@forero.ga](mailto:santiago@forero.ga)
