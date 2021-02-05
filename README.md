@@ -13,7 +13,7 @@ I'm a Colombian high school student learning computer skills during my free time
 
 ### Github
 
-![](https://github-readme-stats.vercel.app/api?username=forerosantiago&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=forerosantiago&show_icons=true&include_all_commits=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=forerosantiago)
 
