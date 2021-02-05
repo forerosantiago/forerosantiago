@@ -7,11 +7,10 @@ I'm a Colombian high school student learning computer skills during my free time
 - :computer: I practice high speed typing
 - :earth_americas: I enjoy learning new languages
 - :point_left: I was left handed but learned to be ambidextrous
-- :ru: I am learning Russian!
 
 ## Stats
 
-### Github
+![](https://gpvc.arturio.dev/forerosantiago)
 
 ![](https://github-readme-stats.vercel.app/api?username=forerosantiago&show_icons=true&include_all_commits=true)
 
@@ -25,8 +24,6 @@ I'm a Colombian high school student learning computer skills during my free time
 ![Debian](https://img.shields.io/badge/-Debian-333?style=for-the-badge&labelColor=A81D33&logo=ubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333?style=for-the-badge&labelColor=E95420&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333?style=for-the-badge&labelColor=87CF3E&logo=linux%20mint&logoColor=white)
-
-
 
 ### General Purpose
 ![](https://img.shields.io/badge/-Node.Js-333?style=for-the-badge&labelColor=339933&logo=node.js&logoColor=white)
