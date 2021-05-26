@@ -8,13 +8,8 @@ I'm a Colombian high school student learning computer skills during my free time
 - :earth_americas: I enjoy learning new languages
 - :point_left: I was left handed but learned to be ambidextrous
 
-## Stats
-
-![](https://gpvc.arturio.dev/forerosantiago)
-
-![](https://github-readme-stats.vercel.app/api?username=forerosantiago&show_icons=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=forerosantiago)
+## Metrics
+![Metrics](https://github.com/forerosantiago/forerosantiago/blob/main/github-metrics.svg)
 
 ## Contact me
 
