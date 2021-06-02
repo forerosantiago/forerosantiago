@@ -14,7 +14,7 @@ I'm a Colombian high school student learning computer skills during my free time
 ## Contact me
 
 ### Discord Server
-[![](https://img.shields.io/discord/782081352396832778?color=%20%237289da%20&label=DISCORD&logo=DISCORD&style=for-the-badge)](https://discord.gg/J9stY4Ks2T)
+[![](https://invidget.switchblade.xyz/J9stY4Ks2T)](https://discord.gg/J9stY4Ks2T)
 
 ### Email 
 [:email: santiago@forero.ga](mailto:santiago@forero.ga)
