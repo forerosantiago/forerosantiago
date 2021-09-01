@@ -13,8 +13,8 @@ I'm a Colombian high school student learning computer skills during my free time
 
 ## Contact me
 
-### Discord Server
-[![](https://invidget.switchblade.xyz/J9stY4Ks2T)](https://discord.gg/J9stY4Ks2T)
+### IRC
+forero on libera.chat, join #forero
 
 ### Email 
 [:email: santiago@forero.ga](mailto:santiago@forero.ga)
