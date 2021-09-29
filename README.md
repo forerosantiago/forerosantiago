@@ -1,15 +1,21 @@
 # Santiago Forero
 
-I'm a Colombian high school student learning computer skills during my free time.
+I dependant 
 
 ## About me
 - :penguin: Operating system: Arch Linux
-- :computer: I practice high speed typing
-- :earth_americas: I enjoy learning new languages
-- :point_left: I was left handed but learned to be ambidextrous
+- :point_left: I am ambidextrous
+- :runner: I'm an athlete
+- :cake: 6th May 2006
+- 🇨🇴 I'm from Colombia
 
 ## Metrics
 ![Metrics](https://github.com/forerosantiago/forerosantiago/blob/main/github-metrics.svg)
+
+## Social media 
+- [YouTube channel](https://youtube.com/channel/UC0l709qNeW3ZpZGdsR2Z6pw)
+- [Instagram @santiagoforer](https://instagram.com/santiagoforer)
+
 
 ## Contact me
 
