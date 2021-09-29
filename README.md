@@ -1,4 +1,4 @@
-# Hi, I am Santiago Forero :wave:
+# Santiago Forero
 
 I'm a Colombian high school student learning computer skills during my free time.
 
