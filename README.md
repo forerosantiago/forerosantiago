@@ -1,7 +1,6 @@
 # Santiago Forero
 
-I dependant 
-
+[forero.xyz](https://forero.xyz)
 ## About me
 - :penguin: Operating system: Arch Linux
 - :point_left: I am ambidextrous
