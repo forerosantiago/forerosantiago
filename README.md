@@ -6,4 +6,4 @@
 ## Contact me
 
 ### Email 
-[:email: santiago@forero.eu.org](mailto:santiago@forero.eu.org)
+[:email: santiago@forero.co](mailto:santiago@forero.co)
